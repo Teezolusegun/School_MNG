@@ -1,0 +1,33 @@
+
+
+ body {
+     font-family: 'Open Sans', sans-serif;
+     line-height: 30px;
+     font-size: 14px;
+ }
+ .logo-custom {
+    max-height: 70px;
+}
+#menu {
+    background-color: rgba(28, 43, 75, 1);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    min-height: 70px;
+}
+.navbar-inverse {
+    border-color: transparent;
+}
+
+
+
+
+/* the footer styling */
+#footer {
+    padding:5px 20px;
+    background-color:#2d3d5a;
+    text-align:right;
+    color:#fff;
+    font-size:15px;
+}
