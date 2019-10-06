@@ -20,7 +20,39 @@
     border-color: transparent;
 }
 
+/* home styles */
+.home-sec {
+    padding-top: 10px;
+    padding-bottom: 60px;
+    background: url(../images/building.jpg) no-repeat center center;
+    padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: #fff;
+    background-attachment: fixed;
+}
 
+.home-sec .overlay {
+    background: rgba(38, 57, 88, 0.89);
+    min-height: 500px;
+}
+
+.home-sec h1 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding-bottom: 35px;
+}
+.set-flexi {
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0);
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0);
+    -o-box-shadow: 0 1px 4px rgba(0, 0, 0, 0);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0);
+    background-color: transparent;
+    border: 0px solid #000;
+    padding-top: 120px;
+}
 
 
 /* the footer styling */
